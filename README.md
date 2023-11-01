@@ -3,7 +3,7 @@ src="https://github.com/Mars-Laurio/Mars-Laurio/raw/main/Hi.gif" height="32" /><
 
 <br />
 
-<a href="mailto:i@blackcater.dev">
+<a href="mailto:mars.laurio@mths.ca">
   <img src="https://github.com/Mars-Laurio/Mars-Laurio/raw/main/social-gmail.svg" height="40" />
 </a>
 
