@@ -1,6 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Mars-Laurio" target="_blank">Mars Laurio</a> <img
 src="https://github.com/Mars-Laurio/Mars-Laurio/raw/main/Hi.gif" height="32" /></h1>
 
+<br />
+
+<a href="mailto:i@blackcater.dev">
+  <img src="https://github.com/Mars-Laurio/Mars-Laurio/raw/main/social-gmail.svg" height="40" />
+</a>
+
+<br />
 
 I'm currently a student at Mother Teresa High School, Ottawa, ON.
 
@@ -13,6 +20,5 @@ I'm currently a student at Mother Teresa High School, Ottawa, ON.
 ## Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## Socials
-
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
