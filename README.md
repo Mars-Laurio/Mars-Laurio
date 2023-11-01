@@ -9,7 +9,8 @@ src="https://github.com/Mars-Laurio/Mars-Laurio/raw/main/Hi.gif" height="32" /><
 
 <br />
 
-I'm currently a student at Mother Teresa High School, Ottawa, ON.
+I'm currently a student at Mother Teresa High School, Ottawa, ON. </a> <img
+src="https://github.com/Mars-Laurio/Mars-Laurio/raw/main/AQy9rx53_400x400.jpg" height="16" /></h1>
 
 ## Program Languages 
 
